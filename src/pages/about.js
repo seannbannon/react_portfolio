@@ -22,7 +22,7 @@ const mainPage = () => {
 
                                 <div className="col-md-8">
 
-                                <p>My name is Ana Suvac. I am an aspiring developer currently registered with UNC Charlotte Coding Bootcamp. I anticipate completing the program in April 2020.</p>
+                                <p>My name is Sean Bannon. I am an aspiring developer currently registered with UNC Charlotte Coding Bootcamp. I anticipate completing the program in April 2020.</p>
     
     <p>My background is the completion of university and high school. I have several years of experience in: Manager-
          Chisinau, Republic Of Moldova Oriflame / Jan 2018 to Jun 2018
