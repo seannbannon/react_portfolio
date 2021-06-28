@@ -22,17 +22,17 @@ const mainPage = () => {
 
                                 <div className="col-md-8">
 
-                                <p>My name is Sean Bannon. I am an aspiring developer currently registered with UNC Charlotte Coding Bootcamp. I anticipate completing the program in April 2020.</p>
+                                <p>My name is Sean Bannon. I am an aspiring Full Stack Developer currently in at bootcamp with Northwestern University.</p>
     
-    <p>My background is the completion of university and high school. I have several years of experience in: Manager-
-         Chisinau, Republic Of Moldova Oriflame / Jan 2018 to Jun 2018
-         I was responsible for organizing customer networks, coordinating promotional companies, planning sales commissions and distributing salaries and
-        Dispatcher-
-         Chisinau, Republic Of Moldova General Inspectorate Of Border Police / Dec 2016 to Jan 2018
-         as a dispatcher I had the following responsibilities: receiving all the calls during the service and redirecting them to the boss, checking all the reports and completing them and checking the suspicious persons in the database. </p>
+    <p>I have a very assorted background in areas ranging from land conservation to substitute teaching.
+        I have spent the majority of my twenties trying to figure out what I want to accomplish in my life. 
+        After spending significant time traveling throughout the country as well as 15 other countries, I have discovered that what is most important to me is basically freedom. 
+        This led me want to pursue a career in computer programming. 
+        After learning the amount of power that is accessible through the knowledge of computer languages, I am all the more interested in becoming a Full Stack Developer. 
+     </p>
         
-    <p>My next work is hopefully a full stack developer. I hope to gain enough knowledge to work in this sphere and gain even more experience.</p>
-<p>During my free time I like to take pictures and then edit them to give a professional look.</p>
+    <p>My next goal is to find work as a full stack developer. I hope to gain enough knowledge to work in this sphere and continue gaining even more experience in the field.</p>
+<p>During my free time I like to write short stories, play guitar, and go for long walks.</p>
    </div>
     </div>
        </blockquote>
