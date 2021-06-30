@@ -17,12 +17,12 @@ const mainPage = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                    <img id="pic" src="https://avatars0.githubusercontent.com/u/56319950?s=460&u=29ea5c9829ccb251f4c3e739338f1ba870b5ce7d&v=4" alt="profile pic" width="100%" height="auto%" />
+                                    <img id="pic" img src= "../public/images/me.JPG" alt="profile pic" width="100%" height="auto%" />
                                 </div>
 
                                 <div className="col-md-8">
 
-                                <p>My name is Sean Bannon. I am an aspiring Full Stack Developer currently in at bootcamp with Northwestern University.</p>
+                                <p>My name is Sean Bannon. I am an aspiring Full Stack Developer currently in a bootcamp with Northwestern University.</p>
     
     <p>I have a very assorted background in areas ranging from land conservation to substitute teaching.
         I have spent the majority of my twenties trying to figure out what I want to accomplish in my life. 
@@ -32,7 +32,7 @@ const mainPage = () => {
      </p>
         
     <p>My next goal is to find work as a full stack developer. I hope to gain enough knowledge to work in this sphere and continue gaining even more experience in the field.</p>
-<p>During my free time I like to write short stories, play guitar, and go for long walks.</p>
+    <p>During my free time I like to write short stories, play guitar, and go for long walks.</p>
    </div>
     </div>
        </blockquote>
