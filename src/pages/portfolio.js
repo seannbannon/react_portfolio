@@ -18,13 +18,13 @@ const portfolio = () => {
                             <div className="col-md-1">
                             </div>
 
-                            {/* <div className="col-md-3">
-                                <a href="https://ana199816.github.io/homework-06/">
+                            <div className="col-md-3">
+                                <a href="https://seannbannon.github.io/SPACEINVADERS/">
                                     <img src="assets/img/weather1.png"
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">Weather Dashboard</p>
-                                <p id="repo"><a href="https://github.com/Ana199816/homework-06">https://github.com/Ana199816/homework-06</a></p>
+                                <p id="repo"><a href="https://seannbannon.github.io/SPACEINVADERS/">SPACE INVADERS</a></p>
                             </div>
                             <div className="col-md-1"></div>
 
@@ -105,7 +105,7 @@ const portfolio = () => {
                             <p>Email Address: anasuvac@yahoo.com</p>
                             <p>Phone Number:(850)-890-5740</p>
                             <a href="https://github.com/Ana199816/homework-16/blob/master/assets/resume/resume.pdf"
-                            > Resume</a> */}
+                            > Resume</a>
 
                         </div>
                     </div>
