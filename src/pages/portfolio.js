@@ -23,20 +23,20 @@ const portfolio = () => {
                                     <img src={require ("../img/spaceinvaders.png")}
                                         className="card-img-top" alt="img-one" />
                                 </a>
-                                <p id="project"><a href="https://seannbannon.github.io/SPACEINVADERS/">SPACE INVADERS</a></p>
-                                <p id="repo"><a href="https://github.com/seannbannon/SPACEINVADERS">Repo</a></p>
+                                {/* <p id="project"><a href="https://seannbannon.github.io/SPACEINVADERS/">Space Invaders</a></p> */}
+                                <p id="repo"><a href="https://github.com/seannbannon/SPACEINVADERS">Space Invaders</a></p>
 
                             </div>
                             <div className="col-md-1"></div>
 
                             <div className="col-md-3">
-                                <a href="https://ana199816.github.io/homework-05/">
-                                    <img src="assets/img/work.day.png"
+                                <a href="https://seannbannon.github.io/DayPlanner/">
+                                <img src={require ("../img/dayplanner.png")}
                                         className="card-img-top" alt="img-two" />
                                 </a>
-                                <p className="card-text">Day Planner</p>
-                                <p id="repo"><a href="https://github.com/Ana199816/homework-05"
-                                >https://github.com/Ana199816/homework-05</a></p>
+                                {/* <p id="project"><a href="https://seannbannon.github.io/DayPlanner/"> Day Planner</a></p> */}
+                                <p id="repo"><a href="https://github.com/seannbannon/DayPlanner">Day Planner</a></p>
+
                             </div>
                         </div>
                         <br></br>
@@ -47,13 +47,12 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a href="https://ana199816.github.io/homework-04/">
-                                    <img src="img/quiz3.png"
+                                <a href="https://seannbannon.github.io/WeatherApp/">
+                                <img src={require ("../img/weather.png")}
                                         className="card-img-top" alt="img-one" />
                                 </a>
-                                <p className="card-text">JS Quiz</p>
-                                <p id="repo"><a href="https://github.com/Ana199816/homework-04"
-                                >https://github.com/Ana199816/homework-04</a></p>
+                                <p id="repo"><a href="https://github.com/seannbannon/WeatherApp"
+                                >Weather App</a></p>
                             </div>
                             <div className="col-md-1">
 

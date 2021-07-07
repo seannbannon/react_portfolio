@@ -26,7 +26,7 @@ const mainPage = () => {
     
     <p>I have a very assorted background in areas ranging from land conservation to substitute teaching.
         I have spent the majority of my twenties trying to figure out what I want to accomplish in my life. 
-        After spending significant time traveling throughout the country as well as 15 other countries, I have discovered that what is most important to me is basically freedom. 
+        After spending significant time traveling throughout the country as well as 15 other countries, I have discovered that what is most important to me is freedom. 
         This led me want to pursue a career in computer programming. 
         After learning the amount of power that is accessible through the knowledge of computer languages, I am all the more interested in becoming a Full Stack Developer. 
      </p>
