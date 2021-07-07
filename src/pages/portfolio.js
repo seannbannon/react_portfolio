@@ -20,11 +20,12 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a href="https://seannbannon.github.io/SPACEINVADERS/">
-                                    <img src="assets/img/weather1.png"
+                                    <img src={require ("../img/spaceinvaders.png")}
                                         className="card-img-top" alt="img-one" />
                                 </a>
-                                <p className="card-text">Weather Dashboard</p>
-                                <p id="repo"><a href="https://seannbannon.github.io/SPACEINVADERS/">SPACE INVADERS</a></p>
+                                <p id="project"><a href="https://seannbannon.github.io/SPACEINVADERS/">SPACE INVADERS</a></p>
+                                <p id="repo"><a href="https://github.com/seannbannon/SPACEINVADERS">Repo</a></p>
+
                             </div>
                             <div className="col-md-1"></div>
 
