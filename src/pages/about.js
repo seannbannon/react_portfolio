@@ -17,7 +17,7 @@ const mainPage = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                    <img id="pic" img src= "../public/images/me.JPG" alt="profile pic" width="100%" height="auto%" />
+                                    <img id="pic" img src={require ("../img/me.JPG")} alt="profile pic" width="100%" height="auto%" />
                                 </div>
 
                                 <div className="col-md-8">
