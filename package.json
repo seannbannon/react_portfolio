@@ -15,7 +15,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://seannbannon.github.io/About",
+  "homepage": "https://seannbannon.github.io/react_portfolio/",
   "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -b master -d build",
