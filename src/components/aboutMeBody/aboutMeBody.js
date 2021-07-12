@@ -26,13 +26,7 @@
 
 //      <p>My name is Sean Bannon. I am an aspiring Full Stack Developer currently registered with Northwestern University. I anticipate completing the program in July 2021.</p>
     
-//     <p>My background is the completion of university and high school. I have several years of experience in: Manager-
-//          Chisinau, Republic Of Moldova Oriflame / Jan 2018 to Jun 2018
-//          I was responsible for organizing customer networks, coordinating promotional companies, planning sales commissions and distributing salaries and
-//         Dispatcher-
-//          Chisinau, Republic Of Moldova General Inspectorate Of Border Police / Dec 2016 to Jan 2018
-//          as a dispatcher I had the following responsibilities: receiving all the calls during the service and redirecting them to the boss, checking all the reports and completing them and checking the suspicious persons in the database. </p>
-        
+//     <p>
 //     <p>My next work is hopefully a full stack developer. I hope to gain enough knowledge to work in this sphere and gain even more experience.</p>
 // <p>During my free time I like to take pictures and then edit them to give a professional look.</p>
 //  </div>
