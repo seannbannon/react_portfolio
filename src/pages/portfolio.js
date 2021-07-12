@@ -99,10 +99,10 @@ const portfolio = () => {
                             Github Profile</a> </p>
                             <p><a href="https://www.linkedin.com/in/seanbannon1/"
                             >Linkedin Profile </a></p>
-                            <p>Email Address: seannbannon@gmail.com</p>
-                            <p>Phone Number:(708)408-7177</p>
-                            <a href="https://github.com/Ana199816/homework-16/blob/master/assets/resume/resume.pdf"
+                            <a href="https://seannbannon.github.io/Professional-Portfolio/css/images/Resume.pdf"
                             > Resume</a>
+
+        
 
                         </div>
                     </div>
