@@ -18,7 +18,7 @@ const Contact = () => {
                             <p>Phone Number:(708)408-7177</p>
                         
                         </div>
-                {/* <blockquote className="blockquote mb-0">
+                <blockquote className="blockquote mb-0">
                     <div className="input-group">
                 <div className="input-group-prepend">
                             <span className="input-group-text">First and last name</span>
@@ -40,7 +40,7 @@ const Contact = () => {
                                     <textarea name="input" id="input" cols="30" rows="5"></textarea>
                                 </div>
                                 <input className="btn btn-primary" type="submit" value="Submit" />
-        </blockquote> */}
+        </blockquote>
                             </div>
 
 </div>
